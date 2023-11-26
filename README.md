@@ -1,2 +1,2 @@
 # MyWork
-This is a public access to all the work I've completed at FSU along with additional Side Projects
+This is a public access to my resume and additional work.
